@@ -9,7 +9,7 @@ let g:devicons_colors = {
       \ 'CocListFgWhite': ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''] ,
       \}
 
-function! s:setIconColors(config, filetypes)
+function! colorscheme_icons#set_colors(config, filetypes)
   let s:joined_filetypes = join(a:filetypes, ',')
   echo s:joined_filetypes
   augroup ColorSchemeIcons
@@ -19,6 +19,4 @@ function! s:setIconColors(config, filetypes)
     endfor
   augroup END
 endfunction
-
-call s:setIconColors(g:devicons_colors, ['nerdtree', 'startify'])
 
