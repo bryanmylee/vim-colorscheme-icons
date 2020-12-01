@@ -2,7 +2,9 @@
 
 A simple plug-and-play plugin to colorize [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) using the current colorscheme. Never worry about your icon colors mismatching again!
 
-> Colorschemes from left to right: [solarized](https://github.com/ericbn/vim-solarized), [xcodelight](https://github.com/arzg/vim-colors-xcode), [horizon](https://github.com/ntk148v/vim-horizon), [solarized (light)](https://github.com/ericbn/vim-solarized), [onedark](https://github.com/joshdick/onedark.vim)
+> Colorschemes from left to right: [solarized](https://github.com/ericbn/vim-solarized), [xcodelight](https://github.com/arzg/vim-colors-xcode), [horizon](https://github.com/ntk148v/vim-horizon), [solarized (light)](https://github.com/ericbn/vim-solarized), [onedark](https://github.com/joshdick/onedark.vim).
+>
+> [Fira Code Nerd Font](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FiraCode).
 
 # Installation
 
