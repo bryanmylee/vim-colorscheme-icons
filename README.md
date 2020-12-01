@@ -21,4 +21,4 @@ Plug 'bryanmylee/vim-colorscheme-icons'
 Special thanks to these people for inspiring this plugin:
 
 * The original Luascript implementation by [@Shatur95](https://github.com/Shatur95).
-* The group definitions from [glyph-palette.vim](https://github.com/lambdalisue/glyph-palette.vim) by [@lambdalisue](https://github.com/lambdalisue)
+* The group definitions from [glyph-palette.vim](https://github.com/lambdalisue/glyph-palette.vim) by [@lambdalisue](https://github.com/lambdalisue).
