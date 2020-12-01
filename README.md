@@ -1,6 +1,8 @@
-Colorize [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) using the current colorscheme.
+![header](https://user-images.githubusercontent.com/42545742/100741575-fe937900-3414-11eb-8357-2f272a5be5a0.png)
 
-> TODO: Screenshots
+A simple plug-and-play plugin to colorize [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) using the current colorscheme. Never worry about your icon colors mismatching again!
+
+> Colorschemes from left to right: [solarized](https://github.com/ericbn/vim-solarized), [xcodelight](https://github.com/arzg/vim-colors-xcode), [horizon](https://github.com/ntk148v/vim-horizon), [solarized (light)](https://github.com/ericbn/vim-solarized), [onedark](https://github.com/joshdick/onedark.vim)
 
 # Installation
 
@@ -12,3 +14,9 @@ Colorize [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) usi
 Plug 'bryanmylee/vim-colorscheme-icons'
 ```
 
+# Acknowledgements
+
+Special thanks to these people for inspiring this plugin:
+
+* The original Luascript implementation by [@Shatur95](https://github.com/Shatur95).
+* The group definitions from [glyph-palette.vim](https://github.com/lambdalisue/glyph-palette.vim) by [@lambdalisue](https://github.com/lambdalisue)
