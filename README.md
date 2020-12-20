@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/42545742/100741575-fe937900-3414-11eb-8357-2f272a5be5a0.png)
+![header](https://user-images.githubusercontent.com/42545742/102705692-3596d500-42c5-11eb-9285-739acb9087ff.png)
 
 A simple plug-and-play plugin to colorize [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) using the current colorscheme. Never worry about your icon colors mismatching again!
 
